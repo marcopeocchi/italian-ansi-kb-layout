@@ -32,7 +32,7 @@ per riuscire a scrivere un pezzo di JSX senza cambiare 12000 volte layout.
 3. Lingua
 4. Italiano > Opzioni
 5. Aggiungi tastiera
-6. Selezionare layout **Italiano - Custon**
+6. Selezionare layout **Italiano - Custom**
 7. Riavvia sistema
 
 ![setup1](/img/setup-1.png?raw=true)
